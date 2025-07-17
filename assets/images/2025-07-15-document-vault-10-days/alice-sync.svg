@@ -1,0 +1,60 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f0f0f0"/>
+  
+  <!-- WinForms Window -->
+  <rect x="50" y="50" width="500" height="300" fill="#ffffff" stroke="#0078d4" stroke-width="2"/>
+  
+  <!-- Title Bar -->
+  <rect x="50" y="50" width="500" height="30" fill="#0078d4"/>
+  <text x="60" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="bold">Document Vault Sync Client</text>
+  
+  <!-- Window Controls -->
+  <rect x="500" y="55" width="20" height="20" fill="#ffffff" opacity="0.2"/>
+  <rect x="520" y="55" width="20" height="20" fill="#ffffff" opacity="0.2"/>
+  <text x="510" y="68" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">−</text>
+  <text x="530" y="68" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">×</text>
+  
+  <!-- Toolbar -->
+  <rect x="50" y="80" width="500" height="40" fill="#f5f5f5" stroke="#d0d0d0"/>
+  <rect x="60" y="90" width="80" height="20" fill="#e1e1e1" stroke="#c0c0c0"/>
+  <text x="100" y="103" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#333" text-anchor="middle">Sync Now</text>
+  
+  <!-- File List Header -->
+  <rect x="50" y="120" width="500" height="25" fill="#e9e9e9" stroke="#d0d0d0"/>
+  <text x="60" y="137" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333" font-weight="bold">Name</text>
+  <text x="300" y="137" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333" font-weight="bold">Modified</text>
+  <text x="450" y="137" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333" font-weight="bold">Status</text>
+  
+  <!-- File Entries -->
+  <!-- File 1 - Highlighted as new -->
+  <rect x="50" y="145" width="500" height="25" fill="#fff3cd" stroke="#ffeaa7"/>
+  <text x="60" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">📄 project-specs.pdf</text>
+  <text x="300" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">2025-07-15 14:23</text>
+  <text x="450" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#28a745" font-weight="bold">✓ Synced</text>
+  
+  <!-- File 2 -->
+  <rect x="50" y="170" width="500" height="25" fill="#ffffff"/>
+  <text x="60" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">📄 meeting-notes.docx</text>
+  <text x="300" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">2025-07-14 09:15</text>
+  <text x="450" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6c757d">Synced</text>
+  
+  <!-- File 3 -->
+  <rect x="50" y="195" width="500" height="25" fill="#f8f9fa"/>
+  <text x="60" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">📊 budget-2025.xlsx</text>
+  <text x="300" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#333">2025-07-13 16:42</text>
+  <text x="450" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#6c757d">Synced</text>
+  
+  <!-- Status Bar -->
+  <rect x="50" y="320" width="500" height="30" fill="#f5f5f5" stroke="#d0d0d0"/>
+  <text x="60" y="340" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#333">Last sync: 5 seconds ago</text>
+  <text x="450" y="340" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#28a745">● Connected</text>
+  
+  <!-- Sync notification -->
+  <rect x="400" y="250" width="140" height="50" fill="#d4edda" stroke="#c3e6cb" rx="4"/>
+  <text x="470" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#155724" text-anchor="middle" font-weight="bold">New file detected!</text>
+  <text x="470" y="285" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#155724" text-anchor="middle">project-specs.pdf</text>
+  
+  <!-- Title -->
+  <text x="300" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#212529" text-anchor="middle" font-weight="bold">Alice sees file 5 seconds later in explorer</text>
+</svg>

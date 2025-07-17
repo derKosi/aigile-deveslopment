@@ -98,10 +98,10 @@ David downloads it on the tablet – all in 3 seconds.
 
 ## 📸 Impressions
 
-![Browser Upload](./docs/media/charles-upload.gif)  
+![Browser Upload](/assets/images/2025-07-15-document-vault-10-days/charles-upload.svg)  
 *Charles uploads in the browser – 2 clicks.*
 
-![WinForms Sync](./docs/media/alice-sync.png)  
+![WinForms Sync](/assets/images/2025-07-15-document-vault-10-days/alice-sync.svg)  
 *Alice sees the file 5 seconds later in the explorer.*
 
 ---

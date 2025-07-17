@@ -1,0 +1,18 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#0078d4" stroke="#ffffff" stroke-width="1"/>
+  
+  <!-- AI symbol - stylized brain/circuit -->
+  <path d="M8 12 Q12 8 16 12 Q20 8 24 12" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M8 20 Q12 24 16 20 Q20 24 24 20" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Central node -->
+  <circle cx="16" cy="16" r="3" fill="#ffffff"/>
+  <circle cx="16" cy="16" r="1.5" fill="#0078d4"/>
+  
+  <!-- Connection dots -->
+  <circle cx="10" cy="12" r="1" fill="#ffffff"/>
+  <circle cx="22" cy="12" r="1" fill="#ffffff"/>
+  <circle cx="10" cy="20" r="1" fill="#ffffff"/>
+  <circle cx="22" cy="20" r="1" fill="#ffffff"/>
+</svg>

@@ -5,7 +5,7 @@ date: 2025-07-15
 author: derKosi
 lang: de
 translation_id: dokumentenablage-in-10-tagen
-tags: ["AI-Team", "Aspire", "Azure", "Git-Flow", "Bicep", "Blazor", "Angular"]
+tags: [AI-Team, Aspire, Azure, Git-Flow, Bicep, Blazor, Angular]
 ---
 
 > **TL;DR**  
@@ -98,10 +98,10 @@ David lädt sie im Tablet herunter – alles in 3 Sekunden.
 
 ## 📸 Impressionen
 
-![Browser Upload](./docs/media/charles-upload.gif)  
+![Browser Upload](/assets/images/2025-07-15-document-vault-10-days/charles-upload.svg)  
 *Charles lädt im Browser hoch – 2 Klicks.*
 
-![WinForms Sync](./docs/media/alice-sync.png)  
+![WinForms Sync](/assets/images/2025-07-15-document-vault-10-days/alice-sync.svg)  
 *Alice sieht Datei 5 Sekunden später im Explorer.*
 
 ---

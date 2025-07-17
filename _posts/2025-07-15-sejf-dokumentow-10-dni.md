@@ -98,10 +98,10 @@ David pobiera go na tablecie – wszystko w 3 sekundy.
 
 ## 📸 Wrażenia
 
-![Przesyłanie w przeglądarce](./docs/media/charles-upload.gif)  
+![Przesyłanie w przeglądarce](/assets/images/2025-07-15-document-vault-10-days/charles-upload.svg)  
 *Charles przesyła w przeglądarce – 2 kliknięcia.*
 
-![Synchronizacja WinForms](./docs/media/alice-sync.png)  
+![Synchronizacja WinForms](/assets/images/2025-07-15-document-vault-10-days/alice-sync.svg)  
 *Alicja widzi plik 5 sekund później w eksploratorze.*
 
 ---
