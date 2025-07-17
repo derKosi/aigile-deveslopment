@@ -2,18 +2,10 @@
 
 source "https://rubygems.org"
 
+# Main theme
 gem "jekyll-theme-chirpy", "~> 7.3"
-gem "jekyll", "~> 4.3"
 
-# Jekyll plugins required by Chirpy theme
-gem "jekyll-default-layout"
-gem "jekyll-loading-lazy"
-gem "jekyll-paginate"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
-gem "jekyll-archives"
-
+# Testing
 gem "html-proofer", "~> 5.0", group: :test
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
