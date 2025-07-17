@@ -155,6 +155,16 @@ pwa:
 
 paginate: 10
 
+# Plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-loading-lazy
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
